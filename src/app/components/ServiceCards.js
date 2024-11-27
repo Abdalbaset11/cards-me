@@ -25,7 +25,7 @@ function ServiceCards({ icon, title, description }) {
                 href={`https://wa.me/96877573609?text=${encodeURIComponent(whatsappMessage)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block absolute bottom-4  bg-cyan-100 text-[#118AB2] text-center font-semibold py-2 px-4 rounded-lg hover:bg-cyan-700 transition-colors duration-200"
+                className="block absolute bottom-4  bg-[#D0F0FB] text-[#118AB2] text-center font-semibold py-2 px-4 rounded-lg hover:bg-[#BEEAF9] transition-colors duration-200"
             >
                 طلب الخدمة
             </a>
