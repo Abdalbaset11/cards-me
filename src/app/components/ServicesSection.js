@@ -79,7 +79,7 @@ function ServicesSection() {
                         clickable: true,
                         dynamicBullets: true,
                     }}
-                    className="w-full mx-auto h-60"
+                    className="w-full mx-auto h-72"
                 >
                     {cardsData.map((card, index) => (
                         <SwiperSlide key={index} className="flex justify-center items-center">

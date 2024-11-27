@@ -20,7 +20,7 @@ export function HeroSection() {
 
                 {/* العنوان الرئيسي */}
                 <motion.h1
-                    className="text-3xl md:text-5xl lg:text-4xl font-bold mb-6 bg-gradient-to-r from-cyan-600 to-blue-600 bg-clip-text text-transparent"
+                    className="text-3xl md:text-5xl lg:text-4xl font-bold mb-6 bg-gradient-to-r text-[#118AB2] text-transparent"
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     viewport={{ once: true }}
